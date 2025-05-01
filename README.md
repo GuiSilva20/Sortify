@@ -2,7 +2,7 @@
 
 ### `README.md`
 
-```markdown
+
 # Sortify - Benchmark de Algoritmos de Ordenação
 
 O **Sortify** é uma aplicação interativa em **Node.js** para testar e comparar o desempenho de três algoritmos clássicos de ordenação: **Bubble Sort**, **Quick Sort** e **Merge Sort**. Através de um **benchmark**, o script permite visualizar o tempo de execução de cada algoritmo e comparar qual é o mais eficiente, com uma análise percentual.
